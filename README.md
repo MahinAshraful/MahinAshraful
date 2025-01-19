@@ -1,5 +1,7 @@
 # About Me:
-My name is Ashraful Mahin, I'm a Computer Science student at Hunter College with a minor in Economics. I'm currently a software engineer intern at Cognizant Technology Solutions. I have experience in full-stack development, having worked on various projects including an AI-powered documentation analysis system and a Discord bot for technical interview analysis.
+My name is Ashraful Mahin, I'm a Computer Science student at Hunter College with a minor in Economics. I'm passionate about technology and finance, with a particular interest in financial markets and their technological infrastructure. Currently, I'm a software engineer intern at Cognizant Technology Solutions and an incoming Software Engineer Intern at JP Morgan. My previous experiences include roles as a Technical Product Manager at Develop for Good and a previous software engineering internship at CUNY BMCC.
+
+I'm a 6x hackathon winner, with notable achievements at prestigious competitions including Columbia DivHacks and BostonHacks. My technical expertise spans full-stack development, with significant projects in AI-powered documentation analysis and automated technical interview systems. I'm constantly seeking new opportunities to learn and grow!
 
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashraful-mahin)
