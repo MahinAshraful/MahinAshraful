@@ -35,4 +35,3 @@ I'm a 6x hackathon winner, with notable achievements at prestigious competitions
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mahinashraful&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahinashraful&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
