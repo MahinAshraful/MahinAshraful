@@ -1,7 +1,9 @@
 # About Me:
-My name is Ashraful Mahin, I'm a Computer Science student at Hunter College with a minor in Economics. I'm passionate about technology and finance, with a particular interest in financial markets and their technological infrastructure. Currently, I'm a software engineer intern at Cognizant Technology Solutions and an incoming Software Engineer Intern at JP Morgan. My previous experiences include roles as a Technical Product Manager at Develop for Good and a previous software engineering internship at CUNY BMCC.
+My name is Ashraful Mahin, a Computer Science student at Hunter College. I am a software engineer passionate about building scalable systems, financial technology, and AI infrastructure. I am the **Founder of the Google Developer Group at Hunter College** and have a strong background in full-stack development, distributed systems, and Artificial Intelligence.
 
-I'm a 6x hackathon winner, with notable achievements at prestigious competitions including Columbia DivHacks and BostonHacks. My technical expertise spans full-stack development, with significant projects in AI-powered documentation analysis and automated technical interview systems. I'm constantly seeking new opportunities to learn and grow!
+I have gained extensive industry experience through Software Engineering internships at **J.P. Morgan**, **Cobble**, **Palantir**, and **Cognizant**. My work has ranged from automating trading filters and optimizing natural language pipelines to building LLM-powered analyzers.
+
+I am a **9x Hackathon Winner**, with notable achievements including being an **AWS Jam Winner/Finalist** and a **Bloomberg Bpuzzled Finalist**. I love tackling complex technical challenges, whether it's engineering a neural network from scratch in C++ or optimizing high-traffic APIs.
 
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashraful-mahin)
@@ -14,6 +16,7 @@ I'm a 6x hackathon winner, with notable achievements at prestigious competitions
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Frameworks:**
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -21,16 +24,17 @@ I'm a 6x hackathon winner, with notable achievements at prestigious competitions
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-**Developer Tools:**
+**Developer Tools & Cloud:**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
